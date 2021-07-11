@@ -4,7 +4,7 @@ interface InputNumber {
     number: number
     onChange: ChangeEventHandler
 }
-
+interface Inasdasdas {}
 const Min1 = ({number,onChange} : InputNumber) => {
     return (
         <>
